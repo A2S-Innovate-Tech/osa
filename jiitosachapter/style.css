@@ -328,7 +328,7 @@ p {
 }
 #header .nav-list ul li:hover a {
 	color: rgb(0, 35, 87);
-	background-color: #0abbe7;
+	background-color: #f8f8f8;
 }
 #header .hamburger {
 	height: 60px;
@@ -1126,7 +1126,7 @@ padding: 5px;
 		justify-content: center;
 		min-width: 20vh;
 	}
-
+	
 	#services .services button{
 		width: 30%;
 	}
